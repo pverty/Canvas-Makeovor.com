@@ -1,0 +1,23 @@
+body{
+	background: violet;
+	font-family:   'Bree Serif', serif;
+}
+.header1{
+	color:  #FFFF00;
+	text-align: center;
+}
+.header2{
+	text-align: center;
+}
+.header3{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.header4{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.header5{
+	text-align: center;
+	margin-bottom: 50px;
+}
